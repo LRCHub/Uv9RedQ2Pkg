@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Cruel World",
+  "base_artist": "Tommee Profitt、Sam Tinnesz",
+  "createdAt": "2025-12-01T05:42:38.046618Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/01_Goodbye_Cruel_World_Pink_Floyd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/02_Cruel_World_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Welcome To The Cruel World",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/03_Welcome_To_The_Cruel_World_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World",
+      "artist": "Jane Wiedlin",
+      "has_synced": false,
+      "path": "select/04_Goodbye_Cruel_World_Jane_Wiedlin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Phantogram",
+      "has_synced": true,
+      "path": "select/05_Cruel_World_Phantogram.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello Cruel World",
+      "artist": "Hightide Hotel",
+      "has_synced": false,
+      "path": "select/06_Hello_Cruel_World_Hightide_Hotel.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Anvil",
+      "has_synced": false,
+      "path": "select/07_Cruel_World_Anvil.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World",
+      "artist": "Anathema",
+      "has_synced": true,
+      "path": "select/08_Goodbye_Cruel_World_Anathema.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey, Cruel World",
+      "artist": "Marilyn Manson",
+      "has_synced": true,
+      "path": "select/09_Hey,_Cruel_World_Marilyn_Manson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World",
+      "artist": "Shakespears Sister",
+      "has_synced": true,
+      "path": "select/10_Goodbye_Cruel_World_Shakespears_Sister.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World",
+      "artist": "Shakespears Sister",
+      "has_synced": true,
+      "path": "select/11_Goodbye_Cruel_World_Shakespears_Sister.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/12_Cruel_World_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hello Cruel World",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/13_Hello_Cruel_World_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hello Cruel World",
+      "artist": "Dent May",
+      "has_synced": true,
+      "path": "select/14_Hello_Cruel_World_Dent_May.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Josh Homme",
+      "has_synced": true,
+      "path": "select/15_Cruel_World_Josh_Homme.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cruel World",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/16_Cruel_World_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Adiós Mundo Cruel - Goodbye Cruel World",
+      "artist": "Enrique Guzman",
+      "has_synced": true,
+      "path": "select/17_Adiós_Mundo_Cruel_-_Goodbye_Cruel_World_Enrique_Guzman.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Adiós Mundo Cruel (Goodbye Cruel World)",
+      "artist": "Enrique Guzmán",
+      "has_synced": true,
+      "path": "select/18_Adiós_Mundo_Cruel_(Goodbye_Cruel_World)_Enrique_Guzmán.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Goodbye Cruel World - 2011 Remastered Version",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/19_Goodbye_Cruel_World_-_2011_Remastered_Version_Pink_Floyd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cruel World",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/pl_01_Cruel_World_Phantogram.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Cruel World",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/pl_02_Cruel_World_Phantogram.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Cruel World",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/pl_03_Cruel_World_Phantogram.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Cruel World To Heaven",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/pl_04_Cruel_World_To_Heaven_Phantogram.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Cruel World",
+      "artist": "Phantogram",
+      "has_synced": false,
+      "path": "select/pl_05_Cruel_World_Phantogram.txt"
+    }
+  ]
+}
